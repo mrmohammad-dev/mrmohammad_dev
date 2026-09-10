@@ -168,7 +168,7 @@ I don't just write code — I build systems.
 I also work on AI-related experiments, research and projects.
 
 🧠 **AI Research:**  
-[Visit mmd-ai.gt.tc](https://mmd-ai.gt.tc)
+[Visit mmd-ai.gt.tc](https://mrmohammad-dev-ai.gt.tc)
 
 ---
 
@@ -192,7 +192,7 @@ Check out my repositories to see what I'm building.
 | 📸 Instagram | [@mrmohammad_dev](https://www.instagram.com/mrmohammad_dev) |
 | ▶️ YouTube | [@mrmohammad_dev](https://youtube.com/mrmohammad_dev) |
 | 📢 Telegram Channel | [@themohammad_dev](https://t.me/themohammad_dev) |
-| 🧠 AI Research | [mmd-ai.gt.tc](https://mmd-ai.gt.tc) |
+| 🧠 AI Research | [mmd-ai.gt.tc](https://mrmohammad-dev-ai.gt.tc) |
 
 ---
 
