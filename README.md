@@ -1,181 +1,217 @@
-<div align="center">
+# Hi, I'm Mohammad 👋
 
-# Mohammad
+### Full-Stack Developer • Backend Engineer • AI & Automation
 
-### Python · Web · Backend · AI
+I build modern, scalable and custom software solutions — from web applications and REST APIs to Telegram bots, AI-powered systems, automation tools and complete backend infrastructures.
 
-Building software, automation systems, web applications and AI-powered tools.
-
-<br>
-
-<a href="https://mohammaddev.gt.tc">
-  <img src="https://img.shields.io/badge/Website-mohammaddev.gt.tc-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://t.me/mrmohammad_dev">
-  <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://github.com/mrmohammadarjmand-dev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+I enjoy turning ideas into real, functional products with clean architecture, practical solutions and modern technologies.
 
 ---
 
-## About
+## 🚀 What I Do
 
-I'm a developer focused on building practical software from idea to deployment.
-
-My main areas are **Python, backend development, web applications, APIs, automation, Telegram bots, and AI integrations**.
-
-I also explore AI research topics such as **LLM evaluation, reasoning faithfulness, interpretability, and AI agents**.
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend & API Development
+- 🤖 AI Applications & AI Agents
+- 📱 Mobile Application Development
+- 🐍 Python Development
+- 🐘 PHP & Laravel Development
+- 📡 Telegram Bots & Automation
+- 🗄️ Database Design & Management
+- ☁️ Deployment & Server Configuration
+- ⛓️ Web3 & Blockchain Development
+- 🛠️ Bug Fixing, Optimization & Project Upgrades
 
 ---
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Python & Backend
-
-- Python
-- FastAPI
-- Django
-- Flask
-- REST APIs
-- Backend systems
-- Telegram Bots
-- Automation
-- Web Scraping
-
-</td>
-<td width="50%">
+## 💻 Tech Stack
 
 ### 🌐 Web Development
 
-- HTML5 / CSS3
-- JavaScript / TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Responsive interfaces
-- Modern static websites
+`HTML5` `CSS3` `JavaScript` `TypeScript`
 
-</td>
-</tr>
+`React.js` `Next.js` `Vue.js`
 
-<tr>
-<td>
+`Tailwind CSS` `Bootstrap`
+
+Responsive Design • Modern UI • Frontend Development
+
+---
+
+### 🐍 Python
+
+`Python` `Django` `Flask` `FastAPI`
+
+REST APIs • Backend Systems • Telegram Bots
+
+Web Scraping • Automation • Data Processing
+
+---
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `NestJS`
+
+`Java` `C` `C++` `C#` `Kotlin`
+
+`Rust` `Go` `Ruby` `PHP`
+
+`GraphQL` `WebSocket` `REST API`
+
+---
+
+### 🐘 PHP
+
+`PHP` `Laravel` `WordPress` `WooCommerce`
+
+Dynamic Websites • E-commerce • Custom Admin Panels
+
+---
+
+### 📱 Mobile Development
+
+`Kotlin` `Java` `Swift`
+
+`Flutter` `React Native`
+
+Android • iOS • Cross-Platform Applications
+
+---
+
+### 🗄️ Databases
+
+`SQL` `MySQL` `PostgreSQL` `SQLite`
+
+`MongoDB` `Redis` `Firebase`
+
+`PL/SQL` `T-SQL` `PL/pgSQL`
+
+GraphQL Query Language
+
+---
+
+### ☁️ DevOps & Infrastructure
+
+`Linux` `Docker` `Nginx` `Apache`
+
+`Git` `GitHub` `Cloudflare`
+
+VPS Management • SSL • DNS • Domain Configuration
+
+Deployment • Server Configuration
+
+---
 
 ### 🤖 AI & Automation
 
-- AI API Integration
-- AI Chatbots
-- AI Agents
-- OCR
-- Prompt Engineering
-- Workflow Automation
-- OpenAI API
-- Claude API
-- Gemini API
-- NVIDIA API
+`OpenAI API` `Claude API` `Gemini API` `NVIDIA API`
 
-</td>
-<td>
+AI Chatbots • AI Agents • OCR Systems
 
-### ⚙️ Infrastructure
+Prompt Engineering • Workflow Automation
 
-- Linux
-- Docker
-- Git / GitHub
-- Cloudflare
-- Nginx
-- Apache
-- VPS
-- SSL / TLS
-- DNS
-- Deployment
-
-</td>
-</tr>
-</table>
+AI Integration • Intelligent Software Systems
 
 ---
 
-### 🔬 CoT Faithfulness Research
+### ⛓️ Web3 & Blockchain
 
-**What Do Chains of Thought Actually Explain?**
+`Solidity`
 
-An independent research project investigating reasoning faithfulness in large language models.
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Research-SOON-0f766e?style=for-the-badge" />
-</a>
+Smart Contracts • Blockchain Development • DApps
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Services
+
+I can help with:
+
+- Custom Website Development
+- E-commerce Platforms
+- Custom Admin Dashboards
+- Backend Systems & REST APIs
+- Telegram Bots
+- CRM & ERP Systems
+- Automation Systems
+- Custom Scripts
+- Payment Gateway Integration
+- Third-Party API Integration
+- Database Architecture
+- Bug Fixing & Optimization
+- Legacy Project Modernization
+- Completing Unfinished Projects
+- Security & Performance Improvements
+- Deployment & Server Setup
+- Continuous Development & Maintenance
+
+---
+
+## 🧠 Development Philosophy
+
+> **Build it properly. Keep it scalable. Make it useful.**
+
+I focus on building software that is:
+
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🧩 Maintainable
+- 🎯 Built around actual requirements
+- 🏗️ Designed with appropriate architecture
+
+I don't just write code — I build systems.
+
+---
+
+## 🔬 AI Research
+
+I also work on AI-related experiments, research and projects.
+
+🧠 **AI Research:**  
+[Visit mmd-ai.gt.tc](https://mmd-ai.gt.tc)
+
+---
+
+## 📂 Featured Areas
+
+My repositories cover practical development, experiments, tools and custom software projects involving:
+
+**Web • Backend • AI • Automation • APIs • Bots • Databases • Systems**
+
+Check out my repositories to see what I'm building.
+
+---
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💻 GitHub | [mrmohammad-dev](https://github.com/mrmohammad-dev) |
+| 🌍 Website | [mrmohammad-dev.gt.tc](https://mrmohammad-dev.gt.tc) |
+| 📩 Telegram | [@mrmohammad_dev](https://t.me/mrmohammad_dev) |
+| 📸 Instagram | [@mrmohammad_dev](https://www.instagram.com/mrmohammad_dev) |
+| ▶️ YouTube | [@mrmohammad_dev](https://youtube.com/mrmohammad_dev) |
+| 📢 Telegram Channel | [@themohammad_dev](https://t.me/themohammad_dev) |
+| 🧠 AI Research | [mmd-ai.gt.tc](https://mmd-ai.gt.tc) |
+
+---
+
+## 🤝 Available for Projects
+
+Looking for a developer to build, improve or maintain a project?
+
+Whether you need a website, backend system, API, Telegram bot, automation tool, AI integration, database or a completely custom application, feel free to contact me.
+
+**Let's turn your idea into a working system.**
+
+📩 Telegram: [@mrmohammad_dev](https://t.me/mrmohammad_dev)
+
+---
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,html,css,react,nextjs,tailwind,php,laravel,mysql,postgres,sqlite,mongodb,redis,git,github,docker,linux,cloudflare&perline=11" />
-
+  <b>Code • Build • Automate • Innovate</b>
 </p>
 
----
-
-## 📌 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 AI Research Portfolio
-
-Research-focused static website built with Astro.
-
-**Focus:** LLMs · Faithfulness · Evaluation · AI Research
-
-</td>
-<td width="50%">
-
-### 🐍 Python Projects
-
-Backend systems, automation, APIs and Telegram bots.
-
-**Focus:** Python · APIs · Automation
-
-</td>
-</tr>
-</table>
-
-More projects will be added as they reach a presentable state.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmohammadarjmand-dev&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-AI Research
-├── LLM Evaluation
-├── Reasoning Faithfulness
-├── Interpretability
-└── AI Agents
-
-Software Engineering
-├── Python
-├── Backend Development
-├── Web Applications
-└── Automation
+<p align="center">
+  Thanks for visiting my profile.
+</p>
