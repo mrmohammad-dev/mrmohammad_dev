@@ -44,14 +44,6 @@ A Persian-language website for an automotive-parts business.
 - [Live website](https://chinayadaksaeid.ir)
 - [Project overview](https://github.com/mrmohammad-dev/china-yadak-saeid)
 
-### ⚡ Soft Fast
-A Persian-language website showcasing mobile and tablet software and hardware services.
-
-- [Live website](https://softfast.gt.tc)
-- [Project overview](https://github.com/mrmohammad-dev/soft-fast)
-
-> Some repositories are portfolio/showcase pages. Source code is not published for every project.
-
 ## Development Principles
 
 - Build around actual requirements
