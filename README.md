@@ -1,217 +1,81 @@
 # Hi, I'm Mohammad 👋
 
-### Full-Stack Developer • Backend Engineer • AI & Automation
+**Software Developer | Web Projects | Python Automation | Telegram Bots**
 
-I build modern, scalable and custom software solutions — from web applications and REST APIs to Telegram bots, AI-powered systems, automation tools and complete backend infrastructures.
+I build practical software projects, including websites, backend services, Telegram bots, and mobile applications. I focus on turning clear requirements into useful products and documenting projects so visitors can understand their purpose and status.
 
-I enjoy turning ideas into real, functional products with clean architecture, practical solutions and modern technologies.
+## What I Work On
 
----
+- **Web development:** responsive interfaces and business websites
+- **Backend and APIs:** server-side application logic and integrations
+- **Python automation:** bots, scripts, and workflow automation
+- **Telegram bots:** interactive bot experiences and administration tools
+- **Mobile applications:** app projects built with web technologies and mobile tooling
+- **AI integrations and experiments:** practical applications and research prototypes
 
-## 🚀 What I Do
+## Technology Focus
 
-- 🌐 Full-Stack Web Development
-- ⚙️ Backend & API Development
-- 🤖 AI Applications & AI Agents
-- 📱 Mobile Application Development
-- 🐍 Python Development
-- 🐘 PHP & Laravel Development
-- 📡 Telegram Bots & Automation
-- 🗄️ Database Design & Management
-- ☁️ Deployment & Server Configuration
-- ⛓️ Web3 & Blockchain Development
-- 🛠️ Bug Fixing, Optimization & Project Upgrades
+| Area | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React, TypeScript, Vite |
+| Mobile | Capacitor, Android app packaging |
+| Backend | Python, PHP, FastAPI |
+| Telegram bots | aiogram |
+| Data | SQLAlchemy, SQLite |
+| Tools | Git, GitHub, web hosting |
 
----
+## Featured Projects
 
-## 💻 Tech Stack
+### 📚 Wordly
+A bilingual English–Persian vocabulary app with spaced repetition, pronunciation, reminders, progress tracking, and local storage.
 
-### 🌐 Web Development
+- [Project page](https://github.com/mrmohammad-dev/wordly-app)
+- [Latest Android release](https://github.com/mrmohammad-dev/wordly-app/releases/latest)
 
-`HTML5` `CSS3` `JavaScript` `TypeScript`
+### 🤖 VPN Sales Bot
+A Telegram bot project for subscription sales and management.
 
-`React.js` `Next.js` `Vue.js`
+- [Project overview](https://github.com/mrmohammad-dev/vpn-sales-bot)
+- [Video demonstration](https://youtu.be/2QVOy7PlHNM)
 
-`Tailwind CSS` `Bootstrap`
+### 🚗 China Yadak Saeid
+A Persian-language website for an automotive-parts business.
 
-Responsive Design • Modern UI • Frontend Development
+- [Live website](https://chinayadaksaeid.ir)
+- [Project overview](https://github.com/mrmohammad-dev/china-yadak-saeid)
 
----
+### ⚡ Soft Fast
+A Persian-language website showcasing mobile and tablet software and hardware services.
 
-### 🐍 Python
+- [Live website](https://softfast.gt.tc)
+- [Project overview](https://github.com/mrmohammad-dev/soft-fast)
 
-`Python` `Django` `Flask` `FastAPI`
+> Some repositories are portfolio/showcase pages. Source code is not published for every project.
 
-REST APIs • Backend Systems • Telegram Bots
+## Development Principles
 
-Web Scraping • Automation • Data Processing
+- Build around actual requirements
+- Keep documentation accurate
+- Prefer practical, maintainable solutions
+- Never expose credentials or private configuration
+- Make project status and availability clear
 
----
+## AI Research
 
-### ⚙️ Backend
+[Visit AI Research](https://mrmohammad-dev-ai.gt.tc)
 
-`Node.js` `Express.js` `NestJS`
-
-`Java` `C` `C++` `C#` `Kotlin`
-
-`Rust` `Go` `Ruby` `PHP`
-
-`GraphQL` `WebSocket` `REST API`
-
----
-
-### 🐘 PHP
-
-`PHP` `Laravel` `WordPress` `WooCommerce`
-
-Dynamic Websites • E-commerce • Custom Admin Panels
-
----
-
-### 📱 Mobile Development
-
-`Kotlin` `Java` `Swift`
-
-`Flutter` `React Native`
-
-Android • iOS • Cross-Platform Applications
-
----
-
-### 🗄️ Databases
-
-`SQL` `MySQL` `PostgreSQL` `SQLite`
-
-`MongoDB` `Redis` `Firebase`
-
-`PL/SQL` `T-SQL` `PL/pgSQL`
-
-GraphQL Query Language
-
----
-
-### ☁️ DevOps & Infrastructure
-
-`Linux` `Docker` `Nginx` `Apache`
-
-`Git` `GitHub` `Cloudflare`
-
-VPS Management • SSL • DNS • Domain Configuration
-
-Deployment • Server Configuration
-
----
-
-### 🤖 AI & Automation
-
-`OpenAI API` `Claude API` `Gemini API` `NVIDIA API`
-
-AI Chatbots • AI Agents • OCR Systems
-
-Prompt Engineering • Workflow Automation
-
-AI Integration • Intelligent Software Systems
-
----
-
-### ⛓️ Web3 & Blockchain
-
-`Solidity`
-
-Smart Contracts • Blockchain Development • DApps
-
----
-
-## 🛠️ Services
-
-I can help with:
-
-- Custom Website Development
-- E-commerce Platforms
-- Custom Admin Dashboards
-- Backend Systems & REST APIs
-- Telegram Bots
-- CRM & ERP Systems
-- Automation Systems
-- Custom Scripts
-- Payment Gateway Integration
-- Third-Party API Integration
-- Database Architecture
-- Bug Fixing & Optimization
-- Legacy Project Modernization
-- Completing Unfinished Projects
-- Security & Performance Improvements
-- Deployment & Server Setup
-- Continuous Development & Maintenance
-
----
-
-## 🧠 Development Philosophy
-
-> **Build it properly. Keep it scalable. Make it useful.**
-
-I focus on building software that is:
-
-- ⚡ Fast
-- 🔒 Secure
-- 📈 Scalable
-- 🧩 Maintainable
-- 🎯 Built around actual requirements
-- 🏗️ Designed with appropriate architecture
-
-I don't just write code — I build systems.
-
----
-
-## 🔬 AI Research
-
-I also work on AI-related experiments, research and projects.
-
-🧠 **AI Research:**  
-[Visit mrmoahmmad-dev-ai.gt.tc](https://mrmohammad-dev-ai.gt.tc)
-
----
-
-## 📂 Featured Areas
-
-My repositories cover practical development, experiments, tools and custom software projects involving:
-
-**Web • Backend • AI • Automation • APIs • Bots • Databases • Systems**
-
-Check out my repositories to see what I'm building.
-
----
-
-## 🌐 Connect With Me
+## Connect
 
 | Platform | Link |
-|----------|------|
-| 💻 GitHub | [mrmohammad-dev](https://github.com/mrmohammad-dev) |
-| 🌍 Website | [mrmohammad-dev.gt.tc](https://mrmohammad-dev.gt.tc) |
-| 📩 Telegram | [@mrmohammad_dev](https://t.me/mrmohammad_dev) |
-| 📸 Instagram | [@mrmohammad_dev](https://www.instagram.com/mrmohammad_dev) |
-| ▶️ YouTube | [@mrmohammad_dev](https://youtube.com/mrmohammad_dev) |
-| 📢 Telegram Channel | [@themohammad_dev](https://t.me/themohammad_dev) |
-| 🧠 AI Research | [mrmohammad-dev-ai.gt.tc](https://mrmohammad-dev-ai.gt.tc) |
+|---|---|
+| GitHub | [mrmohammad-dev](https://github.com/mrmohammad-dev) |
+| Website | [mrmohammad-dev.gt.tc](https://mrmohammad-dev.gt.tc) |
+| Telegram | [@mrmohammad_dev](https://t.me/mrmohammad_dev) |
+| Telegram Channel | [@themohammad_dev](https://t.me/themohammad_dev) |
+| Instagram | [@mrmohammad_dev](https://www.instagram.com/mrmohammad_dev) |
+| YouTube | [@mrmohammad_dev](https://www.youtube.com/@mrmohammad_dev) |
+
+For project inquiries, Telegram is the preferred contact method.
 
 ---
-
-## 🤝 Available for Projects
-
-Looking for a developer to build, improve or maintain a project?
-
-Whether you need a website, backend system, API, Telegram bot, automation tool, AI integration, database or a completely custom application, feel free to contact me.
-
-**Let's turn your idea into a working system.**
-
-📩 Telegram: [@mrmohammad_dev](https://t.me/mrmohammad_dev)
-
----
-
-<p align="center">
-  <b>Code • Build • Automate • Innovate</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+<p align="center"><b>Build • Improve • Automate</b></p>
