@@ -52,10 +52,6 @@ A Persian-language website for an automotive-parts business.
 - Never expose credentials or private configuration
 - Make project status and availability clear
 
-## AI Research
-
-[Visit AI Research](https://mrmohammad-dev-ai.gt.tc)
-
 ## Connect
 
 | Platform | Link |
